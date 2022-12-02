@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -P vincent:staff _hello
+chmod -R -P vincent:staff _hello
